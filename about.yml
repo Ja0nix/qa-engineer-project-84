@@ -1,0 +1,21 @@
+---
+name: Ianina Nadirova
+job: QA Engineer
+level: junior
+email: frisconi@icloud.com
+description: |
+  Обо мне:
+  Осуществляю ручное тестирование
+  Пишу тест-кейсы и составляю чек-листы
+  Работаю с DevTools, Postman, Git, Linux
+  Понимаю принцип работы базы данных
+  Работаю с SQL-запросами
+
+skills: 
+  - Функциональное тестирование
+  - Написание багрепортов
+  - Linux
+  - DevTools
+  - Postman
+  - Git
+  - SQL
